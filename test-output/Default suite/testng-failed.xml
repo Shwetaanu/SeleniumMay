@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="TestScripts.googlepageTest">
+        <methods>
+          <include name="display7"/>
+          <include name="display6"/>
+          <include name="display5"/>
+          <include name="setup"/>
+          <include name="openurl"/>
+          <include name="display4"/>
+          <include name="display1"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- TestScripts.googlepageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

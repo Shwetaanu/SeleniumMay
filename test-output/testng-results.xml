@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-10T09:23:52 IST" name="Suite" finished-at="2025-07-10T09:23:52 IST" duration-ms="737">
+    <groups>
+      <group name="regression">
+        <method signature="googlepageTest.display6()[pri:0, instance:TestScripts.googlepageTest@4b45a2f5]" name="display6" class="TestScripts.googlepageTest"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="googlepageTest.display1()[pri:0, instance:TestScripts.googlepageTest@4b45a2f5]" name="display1" class="TestScripts.googlepageTest"/>
+        <method signature="googlepageTest.display4()[pri:0, instance:TestScripts.googlepageTest@4b45a2f5]" name="display4" class="TestScripts.googlepageTest"/>
+        <method signature="googlepageTest.display6()[pri:0, instance:TestScripts.googlepageTest@4b45a2f5]" name="display6" class="TestScripts.googlepageTest"/>
+        <method signature="googlepageTest.display7()[pri:0, instance:TestScripts.googlepageTest@4b45a2f5]" name="display7" class="TestScripts.googlepageTest"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2025-07-10T09:23:52 IST" name="Test" finished-at="2025-07-10T09:23:52 IST" duration-ms="737">
+      <class name="TestScripts.googlepageTest">
+        <test-method signature="display1()[pri:0, instance:TestScripts.googlepageTest@4b45a2f5]" started-at="2025-07-10T09:23:52 IST" name="display1" finished-at="2025-07-10T09:23:52 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display1 -->
+        <test-method signature="display4()[pri:0, instance:TestScripts.googlepageTest@4b45a2f5]" started-at="2025-07-10T09:23:52 IST" name="display4" finished-at="2025-07-10T09:23:52 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display4 -->
+        <test-method signature="display6()[pri:0, instance:TestScripts.googlepageTest@4b45a2f5]" started-at="2025-07-10T09:23:52 IST" name="display6" finished-at="2025-07-10T09:23:52 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display6 -->
+        <test-method signature="display7()[pri:0, instance:TestScripts.googlepageTest@4b45a2f5]" started-at="2025-07-10T09:23:52 IST" name="display7" finished-at="2025-07-10T09:23:52 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display7 -->
+      </class> <!-- TestScripts.googlepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
