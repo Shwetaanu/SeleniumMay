@@ -7,8 +7,8 @@
     
   </listeners>
   <test  name="Test" >
-   <parameter name="browser" value="chrome" />
-    <groups>
+  <!--  <parameter name="browser" value="chrome" />
+  -->   <groups>
  	<run>
   		<include name="sanity"/>
   </run>
