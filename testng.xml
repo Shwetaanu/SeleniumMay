@@ -8,22 +8,21 @@
   </listeners>
   <test  name="Test" >
   <!--  <parameter name="browser" value="chrome" />
-  -->   <groups>
+  -->  <!--  <groups>
  	<run>
   		<include name="sanity"/>
   </run>
-  </groups>
+  </groups> -->
     <classes>
-      <!-- <class name="TestScripts.googlepagetest_new"/> -->
+      <class name="TestScripts.googlepagetest_new"/>
       <class name="TestScripts.googlepageTest"/>
     </classes>
   </test> <!-- Test -->
-  
- <!--  <test  name="Test1">
+  <test  name="Test1">
   <parameter name="browser" value="chrome" />
     <classes>
       <class name="TestScripts.googlepagetest_new"/>
       <class name="TestScripts.googlepageTest"/>
     </classes>
-  </test> Test -->
+  </test>
 </suite> <!-- Suite -->

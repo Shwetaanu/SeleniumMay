@@ -54,7 +54,7 @@ public class googlepageTest extends baseTestclass {
 	public void display7()
 	{
 		System.out.println("shweta7");
-		//Assert.assertEquals(1, 2);
+		Assert.assertEquals(1, 2);
 	}
 	/*
 	 * @Test public void display2() { System.out.println("chaudhari"); }
